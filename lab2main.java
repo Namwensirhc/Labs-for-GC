@@ -51,7 +51,7 @@ public class lab2main {
 
 	public static void Calc() {
 		area = (length * width);
-		perimeter = ((length * 1) + (width * 2));
+		perimeter = ((length * 2) + (width * 2));
 		System.out.println(" Area is equal to " + area + " And perimeter is equal to " + perimeter);
 		Controoms();
 	}
